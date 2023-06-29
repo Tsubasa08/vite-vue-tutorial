@@ -33,7 +33,7 @@ function removeTodo(todo) {
 </template>
 
 <style>
-.title {
-  color: red;
+.done {
+  text-decoration: line-through;
 }
 </style>
